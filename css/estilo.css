@@ -1,0 +1,31 @@
+.resto-bar{
+    background-image: url('../images/fondo.jpeg');
+    background-size: auto;
+}
+#redes:{
+    display: inline-block;
+}
+#logo:hover{
+    opacity: 0.5;
+    background: #343a40;
+}
+.dropdown-item{
+    background-color: #343a40;
+    color: white;
+}
+.fab:hover{
+    opacity: 0.5;
+    background: #343a40;
+}
+.en-linea {
+    display: inline;
+}
+.fa-facebook {
+    color: #3B5998;
+  }
+.fa-whatsapp{
+    color:#FFF;
+}
+.fa-instagram{
+    color: #d6249f
+}
